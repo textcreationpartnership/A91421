@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The government of the people of England precedent and present the same.</title>
+            <author>Parker, John, Baron of the Court of Exchequer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91421</idno>
+            <idno type="STC">Wing P432</idno>
+            <idno type="STC">Thomason E594_19</idno>
+            <idno type="STC">ESTC R206925</idno>
+            <idno type="EEBO-CITATION">99866013</idno>
+            <idno type="PROQUEST">99866013</idno>
+            <idno type="VID">165559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165559)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E594[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The government of the people of England precedent and present the same.</title>
+                  <author>Parker, John, Baron of the Court of Exchequer.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright, at the Kings Head in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Parker.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Annotation on Thomason copy: "March 5 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165559:1" rendition="simple:additions"/>
+            <p>THE Government of the People of ENGLAND precedent and preſent the ſame.</p>
+            <p>
+               <list>
+                  <item>
+                     <hi>Ad</hi>
+                     <list>
+                        <item>
+                           <hi>Subſcribentes Confirmandum.</hi>
+                        </item>
+                        <item>
+                           <hi>Dubitantes Informanduus.</hi>
+                        </item>
+                        <item>
+                           <hi>Opponentes Convincendune.</hi>
+                        </item>
+                     </list> 
+                  </item>
+               </list>
+            </p>
+            <q>
+               <hi>Multa videntur quae non ſunt, Multa ſunt quae non videntur.</hi>
+            </q>
+            <l>
+               <figure>
+                  <q>Ut uniamur.</q>
+                  <q>Vis unita fortior.</q>
+                  <figDesc>two hands clasped in friendship over a tied bundle of arrows, surrounded by broken arrows</figDesc>
+               </figure>
+            </l>
+            <q>
+               <hi>Concordia parvae res creſcunt, Diſcordia dilabuntur.</hi>
+            </q>
+            <p>London Printed for <hi>Iohn Wright,</hi> at the Kings Head in the Old-Baily. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165559:2"/>
+            <pb n="1" facs="tcp:165559:2"/>
+            <head>The Government of the people of England precedent and preſent, the ſame.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Government of the people of <hi>England</hi> pre<g ref="char:EOLhyphen"/>cedent and preſent, is the ſame; and there<g ref="char:EOLhyphen"/>fore the Subſcription now made or requi<g ref="char:EOLhyphen"/>red, is juſt and lawfull. For the manifeſt<g ref="char:EOLhyphen"/>ing of which truth it will be neceſſary to know what Government is.</p>
+            <p>Now <hi>Imperium eſt jubendi prohibendique poteſtas,</hi> Govern<g ref="char:EOLhyphen"/>ment is a power to command, or prohibit others, which command or prohibition they ought to obey, or for diſo<g ref="char:EOLhyphen"/>bedience to he puniſhed.</p>
+            <p>This Government the Civilians divide into <hi>Summum libe<g ref="char:EOLhyphen"/>rum &amp; merum imperium, &amp; mixtum,</hi> the chiefe free and meere command, and mixt: Now of the chiefe free and meer com<g ref="char:EOLhyphen"/>mand, there are no bounds for that, where that power is, it may appoint, decree, ordain, act, doe or command, above, contrary, or beſides the Lawes, it onely and alone maketh, abrogateth, interpreteth, and confirmeth Lawes, which from the beginning and of ancient time reſideth in the peo<g ref="char:EOLhyphen"/>ple onely, as ſaith <hi>Tholoſanus, l.</hi> 47. <hi>c.</hi> 20. <hi>S.</hi> 8. and
+<hi>Da<g ref="char:EOLhyphen"/>neus, l.</hi> 1. <hi>polit. c.</hi> 4. ſaith, <hi>Populus ſuo Magiſtratu prior eſt tempore, natura, &amp; dignitate, quia populus magistratum conſtituit, &amp; quia populus ſine Magiſtratu eſſe potest, ſed Magiſtratus ſine populo non poteſt eſſe, i. e.</hi> The people are firſt in time, nature, and dignity, before their Magiſtrate, becauſe the people make the Magiſtrate, and becauſe the people can be without a Magiſtrate, but a Magiſtrate cannot bee without a people; and <hi>Stephanus Brutius vindiciae contra Ty<g ref="char:EOLhyphen"/>rannos, quaeſt.</hi> 3. ſaith, <hi>Reges ſunt à populo, &amp; ſunt conſtituis cauſa populi,</hi> Kings or Governours are from the people, and are appointed for the peoples ſakes.</p>
+            <pb n="2" facs="tcp:165559:3"/>
+            <p>And the ſame <hi>Tholoſanus, lib.</hi> 47. <hi>c.</hi> 20. <hi>ſ.</hi> 9. ſetteth downe how the ſame was transferred from the people, where hee ſaith, <hi>Regia lex de imperio lata eſt per quam poteſtas à populo in principens tranſlata eſt,</hi> (that is to ſay) the Kingly Law of the Empire, (<hi>viz.</hi> the Romane Empire) was that by which the power of the people was transferred to the Prince.</p>
+            <p>Which Law hee ſuppoſeth to have beene made when the people granted all their power to
+<hi>Auguſtus Caeſar,</hi> and citeth <hi>Zonarus</hi> to that purpoſe, and ſaith further,
+<hi>Plena fuit illa lex &amp; ſine aliqua reſervatione, i. e.</hi> That Law was abſolute and full without any reſervation to the people.</p>
+            <p>Which Law never extended it ſelfe to the Government of <hi>England,</hi> neither was
+<hi>England</hi> ever governed by the will and pleaſure of any one man; let us therefore examine who commandeth and forbiddeth, here in England, clearly the Lawes, which Government
+<hi>Ariſtotle, lib.</hi> 3. <hi>polit. c.</hi> 7. prefer<g ref="char:EOLhyphen"/>reth afore all other, ſaying,
+<hi>Nihil ita ratum &amp; firmum eſſe ut leges rectae &amp; ſalutares, &amp; lex ſine affectu regit,</hi> but goeth on <hi>penes eum qui praeeſt ſive ſit unus ſive pluret iis de rebus ſtatuendi arbitrium volo de quibus leges cumulate &amp; accurate loqui non poſſunt.</hi>
+            </p>
+            <p>Which is the very Government here in England, for the power of commanding and forbidding the people of Eng<g ref="char:EOLhyphen"/>land, is in the lawes onely, and none other, and that appea<g ref="char:EOLhyphen"/>reth plainely by the daily practiſe amongſt the people, as well before theſe times, in the times of thoſe called Kings and Queens, as at preſent. All the commands or prohibitions that then came, or now do come to the people, were and are appointed, directed, and ſet downe by the Lawes of England; ſo that if any King or Queen did command or prohibit any thing, <note place="margin">
+                  <hi>Co. M. c. p.</hi>
+186.187.206.</note> or in any other manner then the Laws directed it, was void, and the people were not bound to obey; yea, if they did obey it, and thereby there were any prejudice, damage, or offence done to the publike Government, or to any private perſon, they were to be puniſhed, for that no King or Queen could alter the Lawes without conſent of the people, and ſo doe our Law-Books plentifully teſtifie; nay, they could not alter the forme, and therefore if they varied but from the
+<pb n="3" facs="tcp:165559:3"/>forme preſcribed by Law, the command or prohibition did not oblige or binde the people to obey the ſame, a great part of which forme is preſcribed and particularly ſet downe in an ancient Book called, <hi>The Regiſter of Writs</hi> (but indeed is the Regiſter of the commands and prohibitions) the Lawes of this Nation, according to the ſeverall caſes, cauſes, and complaints of the people.</p>
+            <p>Other parts of the Commands not therein compriſed, given and appointed by the Lawes, are by the Common Lawes and Statutes alſo particularly directed, and the King, <hi>Ex merito Juſtitae debitae,</hi> ought to grant, award, and iſſue thoſe Commands or Prohibitions to the people for their reliefe. <hi>Co. Magna Charta,</hi> 269.</p>
+            <p>And to prevent a defect of Juſtice for want of a particular command or prohibition, according to the peoples varying caſes by the Statute of <hi>Weſtm.</hi> 2 <hi>cap.</hi> 24. it is provided, <hi>Et quotieſcunque de caetero evenerit in cancellar quod in uno caſu re<g ref="char:EOLhyphen"/>peritur breve &amp; in conſimili caſu cadente ſub codem jure ſimili indigente remedio non reperitur, concordent clerici de cancellaria in brevi faciondo vel atterminent querentes in prox. Parliamentum &amp; ſcribantur caſus in quibus concordari non poſſunt &amp; referant eos ad prox. Parliamentum &amp; de conſenſu juriſperitorum fiat breve ne contingat de caetero quod antea Domini Regis deficiat conque<g ref="char:EOLhyphen"/>rentibus in juſtitia perquirenda idonea.</hi> And whenſoever from henceforth it ſhall fortune in the Chancery, that in one caſe, a Writ is found, and in like caſe, falling under like Law, and requiring like remedy is found none, the Clerks of the Chancery ſhall agree in making the Writ, or the Plaintifs may adjourne it untill the next Parliament, and let the caſe be written in which they cannot agree, and let them referre themſelves untill the next Parliament, by conſent of men learned in the Law, a Writ ſhall be made, leſt it might happen after that the Court ſhould faile to miniſter Juſtice unto Complainants.</p>
+            <p>But it muſt be in the like caſe, for if it be otherwiſe, it muſt be framed and provided by the people themſelves by their Repreſentatives in Parliament, whereupon <hi>Bracton</hi> ſayes, <hi>lib.</hi> 1. <hi>cap.</hi> 2. <hi>Si aliqua nova &amp; inconſueta emerſerit quae nunquam
+<pb n="4" facs="tcp:165559:4"/>prius evenerunt, &amp; obſcurum &amp; difficile ſit corum Judicium, tunc ponantur Judicia in reſpectu uſque ad magnam curjam ut ibi pet. conſilium curiae terminet:</hi> So that theſe ſeverall ſupplies of learned Clerkes of Chancery, and of the wiſe and learned men of Parliament doe compleatly provide, <hi>quod curia non debet deficere conquerentibus in Juſtitia exhibenda.</hi>
+            </p>
+            <p>And it is true that thoſe commands and prohibitions may be altered, repealed or expounded, or other made by the people only, that is by their Repreſentatives in Parliament, in ſuch manner as might ſeeme fitteſt and beſt for their bene<g ref="char:EOLhyphen"/>fit, quiet, and ſafety, where alwayes was to be obſerved that ancient Rule, <hi>Salus popu'i ſuprema lex eſto.</hi>
+            </p>
+            <p>Which forme of Government ſuiteth in all things with that ſo much applauded by the Philoſopher, and by him preferred before others.</p>
+            <p>And the truth is, the Kings and Queenes that ſent forth the Commands or Prohibitions heretofore, were but Depu<g ref="char:EOLhyphen"/>ties to the Lawes, to ſend, or as Conduit pipes, to convey the ſame Commands or Prohibitions that the Lawes direct<g ref="char:EOLhyphen"/>ed; ſo that here in this Nation the opinion of
+<hi>Antigonus</hi> is verified, <hi>Regnum nihil aliud eſt quum nobilis ſervitus;</hi> and that other opinion, <hi>Reges cum jubent ſocundum leges ſunt legis miniſtri.</hi>
+            </p>
+            <p>And that is apparently manifeſted to be true by a familiar example, <hi>viz.</hi> A Maſter of a Family having divers ſonnes and ſervants, directeth his eldeſt ſonne or chiefe ſervant, that whereas one other of the ſervants oweth to his fellow-ſer<g ref="char:EOLhyphen"/>vant 10.
+<abbr>1.</abbr> or hath beaten his fellow-ſervant, that he com<g ref="char:EOLhyphen"/>mand that ſervant ſo owing the
+10. <abbr>l.</abbr> or hath beaten his fellow-ſervant, that he pay the 10. <abbr>l.</abbr> or make ſatisfaction to his fellow-ſervant for the battery, upon pain of being turned out of his ſervice, which the ſonne or chiefe ſervant doth accordingly: In this caſe the Governor or Comander is the Maſter of the Family, and it is his Command, <hi>Qui per aliud facit per ſeipſum facere videtur,</hi> and the eldeſt ſonne or chiefe fervant but the inſtrument hee imployeth. <hi>Verbum ſapienti ſat eſt.</hi>
+            </p>
+            <p>And that they were but Miniſters, Officers, and Servants,
+<pb n="5" facs="tcp:165559:4"/>to the Common-wealth, appeareth as well by their admiſ<g ref="char:EOLhyphen"/>ſion thereunto at the time of their Coronation, by the ſuf<g ref="char:EOLhyphen"/>frages of the people, as alſo by the Oath they then uſed to take for the due performance thereof, which is the uſual manner of making and conſtituting all other Officers and Miniſters to the Common-wealth.</p>
+            <p>Now the Common-wealth, <hi>Cicero, lib.</hi> 3. <hi>de Republica,</hi> de<g ref="char:EOLhyphen"/>fineth thus,
+<hi>Rempublicam eſſe rem populi, populus autem eſſe non omnis coetus multitudinis, ſed coetus juris concenſu &amp; utilitatis com<g ref="char:EOLhyphen"/>munione conſociatus.</hi>
+            </p>
+            <p>And therefore I conceive the words <hi>Kingly Office</hi> in the late Act for the aboliſhing thereof, is very proper, if they could properly be called Kings, for the reaſons afore re<g ref="char:EOLhyphen"/>membred; and then, if but Officers, it will follow by good conſequence, they are removeable by the people, <hi>viz.</hi> their Repreſentatives (who make them) at their pleaſure, or at leaſt upon miſcarriage in their Office to the dammage of the Common-wealth; ſo it hath been heretofore put in ure in former ages, <hi>viz. Edw.</hi> 2. Removed, and his ſonne
+<hi>Edward</hi> then appointed <hi>Cuſtos Regni.</hi> And ſo <hi>Richard</hi> 2. diſplaced by the people, and <hi>Hen.</hi> 4. then Duke of <hi>Lancaſter</hi> appointed in his ſtead. And this touching the Government of this Nati<g ref="char:EOLhyphen"/>on of <hi>England,</hi> when there is no Parliament ſitting, is cleare to all from the conſtant uſage continually from time to time continued, and at this time is continued the ſame. But as touching the time when there is a Parliament fitting, which is that afore-mentioned by the Philoſopher, <hi>Cum de Rebus Leges Cumulate &amp; accurate loqui non poſſunt,</hi> is the more difficult queſtion, which alſo upon ſerious examination will appeare, that even the Government then, is, and ever was, or ought to have been ſolely in the people, as touching the altering or abrogating any of the old Lawes, or conſtituting of new, which is the prime and principall cauſe and occaſion of convoking a Parliament, <hi>Scil. circa ardua Regni,</hi> as the Writ of Summons to Parliament expreſſeth it.</p>
+            <p>And as touching the Government by Kings, Lords and Commons, <hi>ſcil.</hi> in time of Parliament, it is fitly divided into two queſtions.</p>
+            <pb n="6" facs="tcp:165559:5"/>
+            <p>Firſt, whether the King had any intereſt in the Govern<g ref="char:EOLhyphen"/>ment in time of Parliament,
+<hi>viz.</hi> of altering or abrogating former lawes, or making of new.</p>
+            <p>And that is cleare, that he had not, which appeareth firſt by his Office and Oath to performe the ſame, which is that he will grant and conſent unto ſuch Lawes, <hi>Quas populus elegerit,</hi> which muſt be conſtrued, which the people ſhall chooſe, or elſe it is a non-ſence, the former part of the Oath being, that he will governe by and according to the Lawes of the Land. And it is alſo ſo expounded by 25. <hi>E.</hi> 3. <hi>Statut. de proviſoribus,</hi> the words whereof are theſe, <hi>La Ley de dit Roylme eſt tiel que ſur miſcheife et dammages que aveignont al Roylme Roy doit et eſt tenus per ſon ſerement de la conſent de ſon people in Parliament ent faire Remedy et ley en ouſtant les Miſcheifes et Dammages.</hi> And ſo alſo is <hi>Co. M. C. pag.</hi> 586. and then the King could have no negative voice rightfully and by Law, it being contrary to the Law and his ſaid Oath.</p>
+            <p>And if not the King, then <hi>a fortiore,</hi> not the Lords, they being not ſo much as Officers of the Common-wealth, and had nothing there to doe, as may ſeeme for the publique, but for their private intereſt to ſave them.</p>
+            <p>And it is agreed in our books, that an Act of Parliament may paſſe, and be valid without conſent of the late Lords, called <hi>Spirituall,</hi> 7. <hi>H.</hi> 8. <hi>Cr.</hi> 184. <hi>b. Co. Juriſd.</hi> 25. and yet <hi>Co. Juriſd.</hi> 1.2. calleth them one of the three Eſtates, and ſaith, that they muſt neceſſarily be ſummoned to Parliament aſwel as the Lords Temporall.</p>
+            <p>And truely the Caſe cited <hi>Co. Juriſd. pag.</hi> 25.13. <hi>H.</hi> 4. <hi>N.</hi> 20. proveth plainly, that a Parliament might be with<g ref="char:EOLhyphen"/>out the Lords Temporall alſo, for there he ſaith, I have read of a Reſtitution in bloud and of Lands, of one <hi>William de Laſenby,</hi> by the King, by the aſſent of the Lords Spirituall, and Commons (omitting the Lords Temporall) whereup<g ref="char:EOLhyphen"/>on he ſaith, This we hold is an Ordinance, and no Act of Parliament, which under his good favour muſt be an Act of Parliament, or elſe is of little or no uſe, for an Ordinance indureth, and is of force onely ſitting that Parliament, and
+<pb n="7" facs="tcp:165559:5"/>that determined, the Ordinance is determined, and ſo the re<g ref="char:EOLhyphen"/>ſtitution void, and alſo a reſtitution in blood can onely be by Act of Parliament, which bindeth all; and this reſtitu<g ref="char:EOLhyphen"/>tion is to binde the meane Lords, and all others that are a<g ref="char:EOLhyphen"/>ny wayes intereſſed by that corruption of bloud.</p>
+            <p>However, ſince all Government is in the people, from the people, and for the people, touching altering or abroga<g ref="char:EOLhyphen"/>ting of Lawes, or making of new, which none can doe without them, and that they are now met by their Repreſentatives in Parliament, the place where the cure of ſuch grievances, as infeſt the people, is to be had, ſome of which grievances being that pretended Negative Vote both of King and Lords, thereby thwarting, croſſing, and oppoſing the application of ſuch wholſome Medicines as might probably recover the Patient, the Common-wealth, they muſt in all juſtice remove them as the cauſe thereof, or elſe no hope of recovery. <hi>Pereat unus ne pereat unitas.</hi>
+            </p>
+            <p>And that grievance of the Negative Vote, if not removed, was fatall, and would have ruined all, as thereby hindering of all applications for recovery, which was too much veri<g ref="char:EOLhyphen"/>fied and manifeſted, when the laſt yeare was a Warre very eminently dangerous to the whole Parliament and people here, and that by the continuance of the Royall Party, Scots and <hi>Ormond,</hi> the Lords then ſitting in Parliament, in that extremity, refuſed to declare with the Commons, that the Scots were enemies to the Kingdome, and being then ſeverall times requeſted to give their concurrence for Counties to arme themſelves, they then making uſe of, rather abuſing their Negative Vote, utterly refuſed, which tended to the utter ruine and deſtruction of Parliament and people.</p>
+            <p>And beſides, many of the grievances to the people, iſſuing from King and Lords, could not otherwiſe be cured then by taking them away, the one not regarding his Oath, and the other not eſteeming the publique good, as they ought to have done. Eſpecially, the Kings of
+<hi>England,</hi> having all the late Lords, called Spirituall, at their beck and command then, being under their power, to place and diſplace at their pleaſure, or at leaſt to prefer them; and alſo pretending to
+<pb n="8" facs="tcp:165559:6"/>have power to make as many Lords of Parliament as they pleaſed, for that therein imitating the policy of the Pope in the late Councell of <hi>Trent,</hi> in making titular Biſhops at his pleaſure, they were thereby as able to carry all things in the Houſe, called the Lords, touching the Civill State, at their pleaſure, as the Pope was in that Councell, to carry on things touching the State Eccleſiaſticall.</p>
+            <p>And we ſee that by Act of Parliament made by conſent both of King and Temporall Lords this preſent Parliament, the Lords then called Spirituall, were ſecluded from Parlia<g ref="char:EOLhyphen"/>ment, and their Votes and Sitting in the Houſe, then called the Lords, were quite taken away.</p>
+            <p>And ſince that time, and before the taking away the Vote from the Temporall Lords, many Acts of Parliament have beene made, and eſteemed as well by the Temporall Lords as the Commons, and all others to be valid, effectu<g ref="char:EOLhyphen"/>all, and of force to binde the people, and yet the Spirituall Lords are called one of the three Eſtates, <hi>Co. Juriſd.</hi> 2.</p>
+            <p>And herein is no prejudice to the Publique, becauſe the people may now freely and fully act for the publique good without any oppoſition, and that is the principall end of meeting in Parliament: Neither is there any prejudice to the Lords, for what is there acted for the Publique good, muſt alſo neceſſarily extend to them, and they be partakers thereof as well as any others.</p>
+            <p>Yea, if there were ſome prejudice to the private, yet that ought to be endured, to accommodate the Publique, <hi>Pub<g ref="char:EOLhyphen"/>lica &amp; communis utilitas eſt praeferenda privatae.</hi> And if we ex<g ref="char:EOLhyphen"/>amine the firſt and true Conſtitutions of Parliaments, the Lords never had that power of the Negative Vote, thereby to fruſtrate the good Lawes intended for the Publike; for anciently the Commons and they ſate together, as <hi>Co. Juriſ. l.</hi> 1. <hi>tit. Parliament.</hi> and then the number of Lords being but ſmall and inconſiderable, in reſpect of the number of the Commons, their Negative could not much harme, for that it is probable, and to be preſumed, that the number of the good Zelots for their Countrey, both of Lords and Com<g ref="char:EOLhyphen"/>mons, would much exceed the oppoſite number.</p>
+            <pb n="9" facs="tcp:165559:6"/>
+            <p>So that in ſubſtance touching Parliament affaires, there is the ſame Government at this preſent, as of right it was or ought to have been heretofore: And as touching Govern<g ref="char:EOLhyphen"/>ment in all other things, there is no more change betwixt <hi>Carolus, &amp;c.</hi> and <hi>Custodes libertatis Angliae Authoritate Par<g ref="char:EOLhyphen"/>liamenti,</hi> then there was betwixt <hi>Elizabetha, &amp;c.</hi> and
+<hi>Jaco<g ref="char:EOLhyphen"/>bus, &amp;c.</hi> for that the Lawes were and are the Governours, and not they, as hath been plainly demonſtrated before.</p>
+            <p>And for further proofe that the Government of this Na<g ref="char:EOLhyphen"/>tion is by the Lawes and themſelves, the late yeares now laſt paſt experience doth manifeſt it, during which time King
+<hi>Charles</hi> tranſported with Paſſion, and inraged with fury, that the people would not permit him to introduce the Mo<g ref="char:EOLhyphen"/>narchicall Government, that is, to command and prohibit what and how he pleaſed, was not in fit caſe to act the part or office of a King of <hi>England,</hi> yet during that time the Law governed the people and onely uſed his name, <hi>pro forma,</hi> in its commands and prohibitions, which compared to times of peace before, will appeare to be the ſame; or if any diffe<g ref="char:EOLhyphen"/>rence be, it was that in thoſe times of his diſcontent, the Government was more juſt and beneficiall for the people, the Lawes their Governours, being then more free from ſtraining, miſconſtruing, and perverting, then formerly: So that from theſe premiſes I may ſafely conclude, <hi>That the Government of the people of England precedent and preſent is the ſame;</hi> For <hi>parum differunt quae Re Concordant.</hi>
+            </p>
+            <p>Under which popular Government our Anceſtors have lived happily hundreds of years, which if experience did not teſtifie here what <hi>Bodin</hi> ſaith in his Book <hi>De Rep. lib.</hi>
+6.702. <hi>a.</hi> himſelfe a Frenchman borne, bred, and employed under a Monarchicall Government, as of late times it hath beene uſed, one I dare ſay will not flatter in this caſe; his words are theſe, <hi>Libertus autem illa quam in popularibus Imperiis tan<g ref="char:EOLhyphen"/>topere vigere putant in eo maxime verſatur ut ſuis quiſque bonts uxore liberis tranquille fruatur, nec ſibi aut ſuis ulla vis infera<g ref="char:EOLhyphen"/>tur aut ſi fuerit illa vindicetur.</hi>
+            </p>
+            <p>But further, to manifeſt to all the world, that neither the precedent Kings here, had not, or claimed not that Nega<g ref="char:EOLhyphen"/>tive
+<pb n="10" facs="tcp:165559:7"/>Vote lately pretended to by the late King, and alſo the inevitable danger, yea ruine of the people, if they ſhould have had it and uſed it, I ſhall inſtance in ſome diſceaſes procu<g ref="char:EOLhyphen"/>red by Kings, and ſhall ſhew you how they have been cured; and I ſhall onely remember ſuch as are <hi>probatum<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in Print, and in every mans hands, beginning with <hi>Magna Ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rta,</hi> ſetting downe the diſeaſe, by whom procured, and how cu<g ref="char:EOLhyphen"/>red, following the <hi>ſeries</hi> of time for my Method. King <hi>Henry</hi> the third entertaining into his grace and favour <hi>Peter</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Wincheſter,</hi> an evill man, and relying on him for the managing the Eſtate, he chooſeth unto him a man like him<g ref="char:EOLhyphen"/>ſelfe <hi>Peter de Rivallis,</hi> who draw the King into an evill opi<g ref="char:EOLhyphen"/>nion of his people, in whoſe time, and by whoſe meanes <hi>Iudicia Committuntur injuſtis, leges exlegibus, pax diſcordantibus, juſtitia injurioſis,</hi> perſwading the King to reject in paſſion the juſt Petitions of his Subjects. Theſe two being diſplaced, the King entertaineth others as bad as they, who exact of whom they pleaſe, what they pleaſe, ſet prices on all Offices, rayne the Law within the rule of their owne breaſts; the Great, they inforced not to obey, but ſerve; and the Meane, to live ſo as they might juſtly ſay they had nothing: The diſtemper then grew ſo high, that even the Patients themſelves pra<g ref="char:EOLhyphen"/>ctiſe upon each other, not by advice of Phyſick, but by the rage of fury, entring into Civill Warre, blooding themſelves till they almoſt fainted: At laſt a Phyſician is thought on, a Parliament is called, wherein divers wholſome Medicines are provided againſt divers diſeaſes raging and raigning at that time, the King and his Courtiers having endeavoured to enſlave all, this Phyſician directs this
+<hi>Recipe</hi> of <hi>Cha. liber<g ref="char:EOLhyphen"/>tatum,</hi> to reſtore all to their former liberties: Thus you have the generall diſeaſe, the cauſe, and cure, the particulars fol<g ref="char:EOLhyphen"/>low, <hi>viz.</hi> Churchmen had formerly been oppreſſed by the Kings Officers by unjuſt exactions, the cure is,
+<hi>Quod Eccleſia Anglicana libera ſit, cap.</hi> 1.</p>
+            <p>The Subject was oppreſſed by the Kings Officers and Mi<g ref="char:EOLhyphen"/>niſters, under pretence of taking
+<hi>Rationabile Relevium,</hi> which they hold every taking to be, were it never ſo unreaſonable, the cure is by putting it in certain, as it formerly had been, <hi>cap.</hi> 2.</p>
+            <pb n="11" facs="tcp:165559:7"/>
+            <p>The Poſſeſſions of the Archbiſhops, Biſhops, and other Eccleſiaſticall perſons of the Kings foundation, were by the Kings Officers much waſted, during the Kings poſſeſſing them in vacancy, the cure is <hi>cap.</hi> 5.</p>
+            <p>The Subjects were oppreſſed by the Kings Officers, in ſei<g ref="char:EOLhyphen"/>ſing poſſeſſions of great value for petty debts due to the King when they might have levied it otherwiſe, without much dammage t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Subject; or elſe in taking the Pledge when the Principall was ſufficient and this is cured, <hi>cap.</hi> 8.</p>
+            <p>The Subject was oppreſſed by grievous amerciaments, impoſed by the Kings Miniſters, and others, this is cured, <hi>cap.</hi> 14.</p>
+            <p>In the Reigne of King <hi>Iohn,</hi> and his elder brother King <hi>Richard,</hi> divers oppreſſions, exactions, and injuries were in<g ref="char:EOLhyphen"/>croached upon the Subject for making Bulwarks, Fortreſſes, Bridges and Bancks contrary to I aw; which is cured, <hi>cap.</hi> 15.</p>
+            <p>The Kings Officers and Miniſters, Sheriffe, Conſtable, Coroner, and other his Bailifs, ignorant, unlearned men in the Lawes of the Land, under pretence of more ſpeedy juſtice, though in truth for lucre of gaine preſumed to hold Plea in matters of life, whereby oft the innocent ſuffered, and the nocent eſcaped, this is cured, <hi>cap.</hi> 17.</p>
+            <p>A debtor to the King dying, poſſeſſed of a great perſonall eſtate, his Officers upon pretence ſeiſed all into their hands for a ſmall debt, and oftentimes onely upon pretence of a debt, where in truth there was none due, whereby the Wid<g ref="char:EOLhyphen"/>dow and Orphans were deprived of meanes of living, and this under pretence of diligent care to levy the Kings debts, and this is cured
+<hi>cap.</hi> 18.</p>
+            <p>Purveyance of Carts by the Kings Officers was a great grievance in taking, without paying for the ſame, or in ta<g ref="char:EOLhyphen"/>king where they ought not to take, and this under pretence of diligence in their Maſters ſervice, <hi>Non amo nimium diligen<g ref="char:EOLhyphen"/>tes,</hi> and this is cured, <hi>cap.</hi>
+21.</p>
+            <p>For the avoiding of the waſting of houſes of perſons at<g ref="char:EOLhyphen"/>tainted of Felony, &amp;c. which was due to the King, the Com<g ref="char:EOLhyphen"/>mon Law gave him the profits of the Lands of the perſon at<g ref="char:EOLhyphen"/>tainted
+<pb n="12" facs="tcp:165559:8"/>for one yeare and a day, but his Officers being like Harpies, having once faſtned thereon, would not eaſily bee taken off, under pretence of profit to the King, though in truth to their owne private, whereby much dammage grew to the Lords, of whom the Lands were holden, and who of right ought to have the ſame, which is cured, <hi>cap.</hi> 22.</p>
+            <p>The unlimited and unbridled pleaſure of the Kings Mini<g ref="char:EOLhyphen"/>ſters was become the Law, or at leaſt was forced to be the Law, whereby the people muſt be governed, how cruell, how tyrannicall, every one may eaſily think, and yet upon a pretence of doing ſervice to their great Maſter, to make him a Monarch, to make him ſeared, though not loved, then which a greater diſſervice cannot be to a Prince, as the tempeſts of theſe times thereupon following manifeſtly prove, and yet this grievous diſeaſe not thereby cured, it being too ſharp, but a more gentle Medicine is directed, <hi>cap.</hi> 29.</p>
+            <p>The Kings Agents evill entreating Merchant-ſtrangers in amity, both by exacting what they pleaſed for licence to trade, and what cuſtomes and other duties for their Maſter, as their covetous and boundleſſe humor led them, yet upon a pretence to ennich their Maſter, Trade, the life of a King<g ref="char:EOLhyphen"/>dome, was hereby much hindered and impaired, and this is cured, <hi>cap.</hi>
+30.</p>
+            <p>The Kings Councell and Miniſters making all advanta<g ref="char:EOLhyphen"/>gious expoſition for their Maſter, as they pretended, though in all likelihood, the gaine thereby accruing came to their owne purſes, would needs hold the Law of the Kingdome to be, that whoſoever held of the King by Knights Service, in what manner ſoever, whether as of Honour, Mannour, or otherwiſe, yet it muſt be
+<hi>In capite,</hi> and thereby the King to have his Prerogative for Wardſhip of all the Lands held of whomſoever. And thus theſe Mountebanks miſapply the wholſome Medicince of the Law, to the deſtruction of the Patient, the people, mixing it with ſome ill ingredient of their owne, a uſuall trick and very frequent, it being their maine endeavour under colour of Law, to colour their un<g ref="char:EOLhyphen"/>juſt oppreſſions; and this is onely cured by thoſe wiſe and faithfull Phyſicians, the Parliament, by rightly tempering
+<pb n="13" facs="tcp:165559:8"/>ſuch miſ-tempered Medicines, which is done by them in this particular caſe, <hi>cap.</hi> 31.</p>
+            <p>
+               <hi>Eſcuage,</hi> a duty due to the King and other Lords from their Tenants, the Kings Miniſters for that it was uncertain would thereof make their advantage, and aſſeſſe it at what ſumme they pleaſed, and from their example it is likely o<g ref="char:EOLhyphen"/>ther Lords did the like, for
+<hi>Regis ad exemplum totus componi<g ref="char:EOLhyphen"/>tur orbis,</hi> eſpecially when it is for their profit; and incer<g ref="char:EOLhyphen"/>tainty in duties is a fit opportunity, whereby cruell tyranny may oppreſſe, if referred to the party to whom it is due, and yet the poore knoweth not where, nor to whom to com<g ref="char:EOLhyphen"/>plaine; but for this particular malady, there is a proper Medicine, <hi>cap.</hi> 37. Referring the aſſeſſing thereof as formerly had been uſed, which was by the Parliament, the moſt equall and indifferent Arbiters in caſes doubtfull, and fitteſt to be truſted; and the miſchiefe of incertainty is ſo well fore<g ref="char:EOLhyphen"/>ſeen by the Common Lawes of <hi>England,</hi> that it is alwayes referred to thoſe that by probability are ſtrangers, and in<g ref="char:EOLhyphen"/>different as to Parliament Judges or Jurors.</p>
+            <p>The vigilant Phyſicians now aſſembled in conſultation in Parliament uſing all their induſtry they poſſibly can for procuring and continuing the welfare of this Common<g ref="char:EOLhyphen"/>wealth direct the like general <hi>Recipe</hi> in the concluſion, <hi>c.</hi> 38. as in the beginning, that if they had not directed for every particular a convenient Medicine, yet this generall might ſupply; ſo that now it might probably be thought, <note place="margin">3. E. 3. c. 9. 25. E. 3. Stat. 5. c. 4. 28. E. 3. c. 3. 37. E. 3. c. 18 42. E. 3. c. 3. 1 R. 3. c. 2.</note> that there would need no new advice or Medicines; but ſuch and ſo many are the redundant and malignant humours in this great body, that it preſently groweth into new diſtempers, and muſt be new phyſicked, or it will periſh, though for the moſt part the ingredients hereafter uſed are but the ſame as in the generall or particular <hi>Recipes</hi> mentioned.</p>
+            <p>The Kings Court-Councell informed him that he might for his recreation and better preſervation of his health affo<g ref="char:EOLhyphen"/>reſt any Subjects ground, and ſo diſpoſe of it for his plea<g ref="char:EOLhyphen"/>ſure, as he ſhould think fit, upon pretence no doubt that his life was ſo precious, and ſo to be regarded, that no poſſeſſion
+<pb n="14" facs="tcp:165559:9"/>the Subject had ſhould be ſo deare to him as that he ſhould be unwilling to part with it for the Kings preſervation; faire ſhewes, <note place="margin">25. E. 3. Stat. 5. c. 7. 7 R. 2. c. 4.</note> but fowle ſubſtance even to the ruine of the people, as may appeare by the cure ſet downe in <hi>Cha. de Foreſta,</hi> and as it is well knowne in ſome parts of this Kingdome, by wo<g ref="char:EOLhyphen"/>full experience, even in theſe preſent times long after the making of the ſaid Charter, procured by the Court-Para<g ref="char:EOLhyphen"/>fites chirping in the late Kings eare the ſame or as bad notes as at the making of the ſaid Charter.</p>
+            <p>The Common Law of <hi>England</hi> allowing the King this Prerogative, that he might diſtraine the goods of his debtor, and make ſale thereof towards his ſatisfaction, which his Miniſters abuſed, and thereby oppreſſed the Subject in ſelling at low priſes, or before the Debtor could have notice, and ſometimes when there was no debt due, but onely preten<g ref="char:EOLhyphen"/>ded; all which are provided for by a Statute of diſtreſſes of the Exchequer, <note place="margin">2. H. 4. c. 14.
+3. E. 3. c. 3, 4. 20 H. 6. c. 8. 5. E. 3. c. 2. 23. H. 6. c. 1, 2. 10. E. 3. St. 2. c. 1. 4. 14. E.
+3. c. 19 28. H. 6. St. 2. c. 2. 25. E. 3. St. 5. cap. 6. 21. 2. &amp; 3. E. 6. cap. 3. 28. E. 3. c.
+12 2. &amp; 3. Mar. ca. 6. 34. E. 3. c. 2, 3. 43. E. 3. c. 3. 7. R. 2. c. 8. 14. E. 3. c. 14</note> made 51. <hi>H.</hi> 3.</p>
+            <p>And leſt the prime Medicines preſcribed by <hi>Magna Charta</hi> ſhould be forgotten, neglected, or antiquated, the ſaid Charter is newly confirmed 52. <hi>H.</hi> 3. <hi>Marlebridge, cap.</hi> 5. and 30. times at the leaſt ſince, ſo carefull and provident have theſe faithfull Phyſicians been, and yet new diſeaſes break forth, as that the Kings Prerogative in purveyance for victuals how much abuſed by his Miniſters in oppreſſion of the Subject, may appeare by the many Medicines provided for the cure thereof, <hi>Weſtm.</hi> 1. <hi>cap.</hi> 32. and many other cited in the margent, the Declaration of the Common Law being as it were new tempering of old Medicines, thereby reviving the ſtrength and vertue thereof, which theſe Phyſicians are often enforced ſo to doe as for ouſting the long delay pro<g ref="char:EOLhyphen"/>cured by praying in ayde of the King by the <hi>Stat. de Biga<g ref="char:EOLhyphen"/>mis, cap.</hi> 1, 2, 3.</p>
+            <p>The Kings Courtiers and Servants under colour of right, and preſerving of it to the King, by menaces and thre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts pre<g ref="char:EOLhyphen"/>vailed with many Religious houſes for corodi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and other promotions, whereunto the King had no right, for redreſ<g ref="char:EOLhyphen"/>ſing whereof a Stat. is made, 1.
+<hi>E.</hi> 3. <hi>St.</hi> 2. <hi>cap.</hi> 10.</p>
+            <p>The Kings Officers, in oppreſſion of the Subject, conſtrue
+<pb n="15" facs="tcp:165559:9"/>the Law of the Land to be, that every alienation of any of the Kings Tenants
+<hi>in Capite,</hi> without licence, to be a forfei<g ref="char:EOLhyphen"/>ture, the Law therein is truly expounded by 1.
+<hi>E.</hi> 3. <hi>cap.</hi> 13. And where colour of Law will not ſerve, they uſe force, and compell divers of the Kings Subjects to enter bond to come to the King with force and Armes, whenſoever they ſhould be ſent for, upon pain of life and limbe, and to forfeit what<g ref="char:EOLhyphen"/>ſoever they could forfeit, a fearefull and dangerous tye, but happily untied by a Stat. made, 1.
+<hi>E.</hi> 3. <hi>St.</hi> 2. <hi>cap.</hi> 15.</p>
+            <p>And the uſefulneſſe of theſe Phyſicians, and their often conſultations, and their frequent advices, apparently pro<g ref="char:EOLhyphen"/>ved and approved by the happy experience this great body the Commonwealth had formerly had to be exceeding ne<g ref="char:EOLhyphen"/>ceſſary for its preſervation and happineſſe, it is is provided 4. <hi>E.</hi> 3. <hi>cap.</hi> 14. to be once every yeare,
+<note place="margin">36. E. 3. c. 10</note> or oftner if need require.</p>
+            <p>Monopolies and reſtraint of Trade being beneficiall to the Kings Courtiers, though much prejudiciall to the State and people, are no doubt upon faire, though falſe gloſſes, ſet up and countenanced, which dangerous diſeaſe is provided for by 9. <hi>E.</hi> 3. <hi>Stat.</hi>
+1. <hi>cap.</hi> 1.</p>
+            <p>The Kings Councell and Courtiers, abuſing for their owne private ends, the wholſome Medicine of the Common Lawes of this Kingdome, to the great detriment of the Sub<g ref="char:EOLhyphen"/>ject, upon pretence that
+<hi>Nullum tempus occurrit Regi,</hi> and that all Lands came from the King at the firſt, ſeiſe into the Kings hands any mans Lands, thereby to enforce him to ſhew his title, and if he make default, to forfeit the ſame, which great miſchiefe is provided for by 9. <hi>E.</hi>
+3. <hi>St.</hi> 1. <hi>cap.</hi> 2. For that by tenure ſome Tenants of the King, by reaſon of their tenure are bound to finde Armes in the Kings ſervice, his Councell and Courtiers ſtrained this to be due from all, to the great dammage of the people, which miſexpoſition is remedied
+25. <hi>E.</hi> 3. <hi>Stat.</hi> 5. <hi>cap.</hi> 8.</p>
+            <p>The King by his Prerogative is to be firſt ſatisfied his debt before any Subject, and till that were levied, the King might protect the debtor, which in true intention was, with what ſpeed the King might be firſt ſatisfied, then the Subject
+<pb n="16" facs="tcp:165559:10"/>might ſue for his; but under colour hereof the Courti<g ref="char:EOLhyphen"/>ers had got this trick, that if they did owe money to any o<g ref="char:EOLhyphen"/>ther, they would alſo be debtors to the King and thereupon get his protection, and delay the Subject of his due debt till Doomeſday, or at leaſt till hee ſhould be without remedy, which great miſchiefe is provided for by 25. <hi>E.</hi> 3.
+<hi>St.</hi> 5. <hi>cap.</hi> 19. It were very probable that the generall and particular proviſions afore-cited would be ſufficient to prevent any op<g ref="char:EOLhyphen"/>preſſing of the Subject, but as the Poet ſaith,
+<q>
+                  <l>Queritur ut creſcunt tot magno volumina logis,</l>
+                  <l>In promptu ratio eſt croſcit in orbe dolus.</l>
+               </q>
+            </p>
+            <p>New Ages produce new wirs, and they new inventions, and amongſt the reſt was this, that the King ſhould grant a Commiſſion to certaine perſons to view and ſearch victualls, and correct where they found cauſe, upon a ſpecious and fair pretence forſooth, that thereby the Subject might be the her<g ref="char:EOLhyphen"/>tor provided of wholſome meat, and not to be poiſoned or deſtroyed by miſcarriage therein, though in truth the thing intended was their owne private gaine, as expenience pre<g ref="char:EOLhyphen"/>ſently ſhewed; a grand way of oppreſſing under colour of relieving; this alſo is cured by 12. <hi>E.</hi> 4. <hi>cap.</hi> 8.</p>
+            <p>The Kings Officers and Miniſters extending the Kings Prerogative beyond its true bounds, eſpecially where there was not particular bounds, as in caſe of aſſignment of debts to his Majeſty, they conſtrued all aſſignments, whether by Debtor or Accomptant, <hi>Bona fide,</hi> or feignedly, to be within the Kings Prerogative, to the great dammage of the people, in reſpect of the large execution the King may take, which is remedied by 7. <hi>Jacobi, cap.</hi>
+15.</p>
+            <p>But it ſeemeth our preſent age hath been more ſtraining of the Prerogative, then of hundreds of yeares before, for notwithſtanding the many and wholſome Medicines former<g ref="char:EOLhyphen"/>ly recited to have been provided, the Court-Mountebancks found meanes to vex and oppreſſe the Subjects, and one way was by prying into their eſtates, and picking holes and quarrels with their titles, upon pretence no queſtion of much good ſervice to his Majeſty, though the true mark they ſhot at was their own private profit; and this is particularly cured by 21. <hi>Jac. cap.</hi> 2.</p>
+            <pb n="17" facs="tcp:165559:10"/>
+            <p>Another late invention among the Courtiers, were the ſwarming Patents of Monopolies, whereby they oppreſſed the rich, and fed upon the poore, and yet in all theſe they have moſt glittering, though falſe colours, of good to the Publique, thereby endeavouring to deceive the people, but what their true ayme was, may appeare by wofull experi<g ref="char:EOLhyphen"/>ence in getting gaine to themſelves; and this is remedied by 21. <hi>Jac. cap.</hi> 3.</p>
+            <p>But as if all the former Medicines had never been provided, or elſe the vertue and operation of them ſo decayed by time, the Courtiers of the late King raunged, roved, yea and ra<g ref="char:EOLhyphen"/>ged in ſuch, ſo many, and hainous grievances, as it is not eaſily to be beleeved if late ſufferings did not too too much atteſt the ſame, ſome whereof are ſpecified in the late Petition of Right 3. <hi>Carol. viz.</hi> Loane-Money, New Oathes, Bonds for Appearance, Attendance, Impriſonment, Confinement, unlawfull charges laid and levied by Lord Lieutenants, De<g ref="char:EOLhyphen"/>puty Lieutenants, Commiſſioners for Muſters, Juſtices of peace, and others by command or direction from his Maje<g ref="char:EOLhyphen"/>ſty or his Privy Councell, and many more therein menti<g ref="char:EOLhyphen"/>oned; all which by the Kings condeſcending to the ſaid Pe<g ref="char:EOLhyphen"/>tition is remedied: And ſure now the Head of this great Body is likely to be fully cured, and that there ſhould no diſtempers in future flow from thence, yet conſider how many have appeared ſince the beginning of this Parliament, 16.
+<hi>Carol.</hi> and what cured, and what to cure, and it cannot paſſe without wonder, whence ſuch peccant humours ſhould ariſe to produce ſuch maladies, but the art of theſe later times farre paſſe the precedent, in that they cover all their procee<g ref="char:EOLhyphen"/>dings under colour of Law and Juſtice, witneſſe Ship-mony, Coat, and Conduct Money, Fines, Impriſonments, and o<g ref="char:EOLhyphen"/>ther grievous ſufferings in the High-Commiſſion Court, which were much to have been inhaunced and advanced by their late new Canons, Oathes, Articles; in the Star-Cham<g ref="char:EOLhyphen"/>ber by their exceſſive Fines, Impriſonments, and cruell Ma<g ref="char:EOLhyphen"/>cering of ſuch as fell into their hands. And theſe Gangrenes are alſo taken care of by the preſent Parliament: Out of all which recited Acts of Parliament may be obſerved; firſt, that
+<pb n="18" facs="tcp:165559:11"/>the Kings of <hi>England</hi> had not a Negative Vote, for ſure it is, if they had ſo had, they would have made uſe of it, the ſame tending ſo much towards Monarchy, which all in ſome ſort laboured for. Secondly, the many oppreſſions, dangers, yea ruines that had befalne the people of <hi>England,</hi> if not reme<g ref="char:EOLhyphen"/>died by their carefull Phyſicians, the Parliament. Thirdly, the dangerous conſequent of the Negative Vote alowed to ei<g ref="char:EOLhyphen"/>ther King or Lords, that then their oppreſſions, wrongs, and injuries could not be prevented, ſo that Tyranny muſt needs follow with might and maine.</p>
+            <p>Behold then, O <hi>England,</hi> and conſider thy Governours, the Lawes of this Nation, free from paſſion, ambition, and all other exorbitant affections, yet willing to be reformed by your ſelves for your good, <hi>Cupiunt etenim leges ut jure Re<g ref="char:EOLhyphen"/>gantur;</hi> And therefore I may ſafely conclude that Motto true in this Nation, <hi>Legi ſervire libertas,</hi> for that the Lawes by which they are governed, are of their owne framing, con<g ref="char:EOLhyphen"/>ſent, and entertainment.</p>
+            <q>
+               <l>O fortunati nimium ſi ſua bona norint.</l>
+               <l>Legis virtus est imperare, vetare, permittere, punire.</l>
+            </q>
+            <closer>Pro Patria.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
